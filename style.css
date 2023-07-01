@@ -83,7 +83,6 @@ section {
 
 .home-img img {
     width: 35vw;
-    filter: blur(5px);
 }
 
 .home-content h3 {
