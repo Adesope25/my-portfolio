@@ -429,14 +429,14 @@ span {
         font: 5rem
     }
     .home-img img {
-        width: 70vw;
+        width: 110vw;
         margin-top: 4rem;
     }
     .about {
         flex-direction: column-reverse;
     }
     .about img {
-        width: 70vw;
+        width: 110vw;
         margin-top: 4rem;
     }
     .services h2 {
