@@ -467,10 +467,10 @@ span {
 
 @media (max-width:365px) {
     .home-img img {
-        width: 90vw;
+        width: 110vw;
     }
     .about-img img {
-        width: 90vw;
+        width: 110vw;
     }
     .footer {
         flex-direction: column-reverse;
